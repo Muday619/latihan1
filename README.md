@@ -1,2 +1,2 @@
 # latihan1
-uji coba pertama
+ini file kumpulan film favorite saya
